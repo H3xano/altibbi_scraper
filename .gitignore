@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Progress files
+progress_articles.json
+progress_questions.json
+
+# Data directories and files
+data/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python virtual environment
+*.env
+*.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Pyre type checker
+.pyre/
